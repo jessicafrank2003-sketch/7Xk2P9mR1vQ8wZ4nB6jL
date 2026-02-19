@@ -2,7 +2,7 @@ Prototyp: Automatisierte Stichprobenziehung (VBA)
 Dieses Repository enthält den softwaregestützten Prototyp, der im Rahmen der Bachelorthesis „Konzeption und Implementierung einer automatisierten Lösung zur Optimierung der Stichprobenziehung im AFC-Kontext“ entwickelt wurde.
 
 Projektbeschreibung
-Der Prototyp dient als Proof-of-Concept für ein Schichtenmodell zur teilautomatisierten Selektion von Stichproben. Ziel ist die Steigerung der Prozesseffizienz und die Eliminierung manueller Fehlerquellen bei der ABC AG.
+Der Prototyp dient als Proof-of-Concept für ein Schichtenmodell zur teilautomatisierten Selektion von Stichproben. Ziel ist die Steigerung der Prozesseffizienz und die Eliminierung manueller Fehlerquellen bei der grenke AG.
 
 Technische Struktur
 Die Anwendung ist modular nach einem Layer-Prinzip aufgebaut, um eine strikte Trennung von Zuständigkeiten zu gewährleisten:
